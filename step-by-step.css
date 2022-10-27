@@ -1,0 +1,43 @@
+body {
+    background: #eee;
+    font-family: 'Oswald', sans-serif;
+    background: url("floresta.jpg") ;
+    background-position: center;
+}
+
+.result-item{
+    background: white;
+    margin: 20px auto;
+    text-align: center;
+    width: 80%";
+}
+
+.search-bar{
+    padding: 20px;
+    margin: 20px auto;
+    text-align: center;
+    width: 80%;
+    background: white;
+}
+
+.search-bar input
+.search-bar button{
+    padding: 15px 30px;
+    font-size: 17px;
+    border: 1px solid rgb(181, 181, 181);
+}
+
+.search-bar input{
+
+}
+
+div.suggestion{
+    box-shadow: 0 0 5px rgba(55, 55, 55, 0.26);
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+div.suggestion .item{
+    padding: 20px 30px;
+    border: 1px solid black;
+}
